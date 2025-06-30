@@ -137,10 +137,10 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 
 ## Testing the API with Postman
-1.After deployment, use your API Gateway endpoint (e.g. `https://{api-id}.execute-api.{region}.amazonaws.com/prod/notes`) for testing.
+3.1.After deployment, use your API Gateway endpoint (e.g. `https://{api-id}.execute-api.{region}.amazonaws.com/prod/notes`) for testing.
 
-2.Create Note – `POST /notes`
 
+3.2.Create Note – `POST /notes`
 ```json
 POST /notes
 Content-Type: application/json
@@ -149,10 +149,49 @@ Content-Type: application/json
   "title": "Up The Chels",
   "content": "I am proper Chels and London is Blue"
 }
-
 ```
 
+![image_alt]()
 
+3.3.Get Note – `GET /notes/{id}`
+
+```bash
+GET /notes/123
+```
+![image_alt]()
+
+
+3.4.Update Note – `PUT /notes/{id}`
+```json
+PUT /notes/123
+Content-Type: application/json
+
+{
+  "title": "Updated Title",
+  "content": "Updated note content"
+}
+```
+![image_alt]()
+
+
+3.5.Delete Note – `DELETE /notes/{id}`
+```bash
+GET /notes/123
+```
+
+![image_alt]()
+
+
+## What You Will Learn
+1.How to build serverless microservices using AWS
+
+2.How to secure Lambda access with IAM
+
+3.How to automate cloud deployments with Terraform
+
+4.How to integrate multiple AWS services into one system
+
+5.How to test APIs using Postman or curl
 
 
 
