@@ -182,7 +182,7 @@ GET /notes/123
 ![image_alt]()
 
 
-## What You Will Learn
+## What we Learned by doing this project
 1.How to build serverless microservices using AWS
 
 2.How to secure Lambda access with IAM
