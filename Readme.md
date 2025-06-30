@@ -85,6 +85,7 @@ terraform init
 ```
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown
+
 ![image_alt]()
 
 
@@ -94,12 +95,14 @@ Upon completion of the initialization process, a successful prompt will be displ
 terraform validate
 ```
 The command should generate a success message, confirming that it is valid, as demonstrated below.
+
 ![image_alt]()
 
 1.4.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply.
 ```language
 terraform plan
 ```
+
 ![image_alt]()
 
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
