@@ -1,1 +1,1 @@
-# Serverless Notes App
+# Serverless Notes App (AWS + Terraform)
