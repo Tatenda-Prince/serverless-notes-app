@@ -20,10 +20,28 @@ The **Serverless Notes App** is a cloud-native RESTful API that allows users to 
 
 6.Practice cloud-native DevOps concepts hands-on
 
-# Features
-1.**Create Note**            | `POST /notes` to add a new note                  
-2.**Retrieve Note by ID**    | `GET /notes/{id}` to fetch a single note         
-3.**Update Note**            | `PUT /notes/{id}` to modify an existing note     
-4.**Delete Note**            | `DELETE /notes/{id}` to remove a note            
+## Features
+1.**Create Note**            | `POST /notes` to add a new note 
+
+2.**Retrieve Note by ID**    | `GET /notes/{id}` to fetch a single note  
+
+3.**Update Note**            | `PUT /notes/{id}` to modify an existing note
+
+4.**Delete Note**            | `DELETE /notes/{id}` to remove a note 
+
 5.**Terraform IaC**          | Infrastructure provisioned and managed with code 
+
 6.**CloudWatch Logs**        | View Lambda logs for each operation              
+
+## Technologies Used
+1.Terraform 
+
+2.AWS Lambda
+
+3.Amazon API Gateway
+
+4.Amazon DynamoDB
+
+5.IAM
+
+6.CloudWatch
