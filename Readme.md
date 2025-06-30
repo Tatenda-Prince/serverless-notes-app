@@ -123,6 +123,22 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 
 ## Step 2: Verify creation of our resources
+2.1.In the AWS Management Console, head to the lambda Console and verify that there are four lambda functions running as show below
+
+![image_alt]()
+
+2.2.In the AWS Management Console, head to the AWS API Gateway dashboard and verify that there is API  successfull created.
+
+![image_alt]()
+
+2.3.In the AWS Management Console, head to the AWS DynamoDB dashboard and verify that there is Table successfull created.
+
+![image_alt]()
+
+
+## Testing the API with Postman
+
+
 
 
 
