@@ -86,7 +86,7 @@ terraform init
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/9e191fc0c72379a498cef2a334e3e20a5af9c10a/img/Screenshot%202025-07-05%20140326.png)
 
 
 1.3.Next, let’s ensure that our code does not contain any syntax errors by running the following command
