@@ -158,7 +158,7 @@ Content-Type: application/json
 3.2.1.Navigate to the DynamoDb under tables click on explore items and you'll find a list of notes created
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/8bf598a4268dfde0a5526f70e9dda7d3ed5c0b4f/img/Screenshot%202025-07-05%20143922.png)
 
 
 
