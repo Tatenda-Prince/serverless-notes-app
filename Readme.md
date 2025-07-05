@@ -125,7 +125,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 ## Step 2: Verify creation of our resources
 2.1.In the AWS Management Console, head to the lambda Console and verify that there are four lambda functions running as show below
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/b70ae95e37ad40332fe04d71881cdb57a344b07c/img/Screenshot%202025-07-05%20141601.png)
 
 2.2.In the AWS Management Console, head to the AWS API Gateway dashboard and verify that there is API  successfull created.
 
