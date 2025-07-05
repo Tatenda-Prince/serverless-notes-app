@@ -103,7 +103,7 @@ The command should generate a success message, confirming that it is valid, as d
 terraform plan
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/1d733d2e3a27c7d01c8138dbb1d9734b22bae128/img/Screenshot%202025-07-05%20140522.png)
 
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
