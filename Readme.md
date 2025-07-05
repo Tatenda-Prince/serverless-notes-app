@@ -1,6 +1,6 @@
 # Serverless Notes App (AWS + Terraform)
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/bdff5c41fea0d3c14cd0979c140fb5ec9e40ec5c/img/Screenshot%202025-07-05%20135110.png)
 
 
 ## Background
