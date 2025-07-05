@@ -96,7 +96,7 @@ terraform validate
 ```
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/1580584324e6e8834c3481a896a478598b80e64f/img/Screenshot%202025-07-05%20140351.png)
 
 1.4.Let’s now execute the following command to generate a list of all the modifications that Terraform will apply.
 ```language
