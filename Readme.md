@@ -190,7 +190,7 @@ Content-Type: application/json
 GET /notes/123
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/25bfd0219fe58b4b1a8efd8efdb45f660aace03d/img/Screenshot%202025-07-05%20145227.png)
 
 
 ## What we Learned by doing this project
