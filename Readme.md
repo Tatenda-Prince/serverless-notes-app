@@ -167,7 +167,8 @@ Content-Type: application/json
 ```bash
 GET /notes/123
 ```
-![image_alt]()
+
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/a9f7220a42edc3b792bf4aaca33c2085f39c7920/img/Screenshot%202025-07-05%20144533.png)
 
 
 3.4.Update Note – `PUT /notes/{id}`
