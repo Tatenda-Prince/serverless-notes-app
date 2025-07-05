@@ -151,7 +151,7 @@ Content-Type: application/json
 }
 ```
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/36db928e687ab09674bfbbc30520b97d1d5cdfca/img/Screenshot%202025-07-05%20143204.png)
 
 
 
