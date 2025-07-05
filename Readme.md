@@ -142,8 +142,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 3.2.Create Note – `POST /notes`
 ```json
-POST /notes
-Content-Type: application/json
+Key = Content-Type AND  Value = application/json
 
 {
   "title": "Up The Chels",
