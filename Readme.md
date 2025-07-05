@@ -119,7 +119,7 @@ Terraform will initiate the process of applying all the changes to the infrastru
 ## Success
 The process should now conclude with a message indicating “Apply complete”, stating the total number of added, modified, and destroyed resources, accompanied by several resources.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/beebbcb248d37c86395b13e27099891ecc9ae4b8/img/Screenshot%202025-07-05%20141112.png)
 
 
 ## Step 2: Verify creation of our resources
