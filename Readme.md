@@ -181,7 +181,8 @@ Content-Type: application/json
   "content": "Updated note content"
 }
 ```
-![image_alt]()
+
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/aede059044041a7d6269209ca2b1e51cb794dd04/img/Screenshot%202025-07-05%20145034.png)
 
 
 3.5.Delete Note – `DELETE /notes/{id}`
