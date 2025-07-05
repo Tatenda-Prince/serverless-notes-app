@@ -133,7 +133,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 2.3.In the AWS Management Console, head to the AWS DynamoDB dashboard and verify that there is Table successfull created.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/efc159a9cf198b73533c7ab7a6d2a8a44b334239/img/Screenshot%202025-07-05%20141615.png)
 
 
 ## Testing the API with Postman
