@@ -129,7 +129,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 2.2.In the AWS Management Console, head to the AWS API Gateway dashboard and verify that there is API  successfull created.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/serverless-notes-app/blob/a6e4cd469e3693fc818bafbd518afeb08ed29174/img/Screenshot%202025-07-05%20141608.png)
 
 2.3.In the AWS Management Console, head to the AWS DynamoDB dashboard and verify that there is Table successfull created.
 
