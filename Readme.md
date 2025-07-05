@@ -153,6 +153,15 @@ Content-Type: application/json
 
 ![image_alt]()
 
+
+
+3.2.1.Navigate to the DynamoDb under tables click on explore items and you'll find a list of notes created
+
+
+![image_alt]()
+
+
+
 3.3.Get Note – `GET /notes/{id}`
 
 ```bash
